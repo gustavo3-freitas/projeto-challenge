@@ -1,2 +1,2 @@
 # projeto-challenge
-Criação de uma página html, contendo validações javascript
+Criação de aplicação que permite aos usuários inserir nomes de amigos em uma lista para, em seguida, realizar um sorteio aleatório e determinar quem é o "amigo secreto".
